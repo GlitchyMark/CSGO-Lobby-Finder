@@ -1,0 +1,9 @@
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\bin\Debug\CSGO Lobby Finder.exe.config
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\bin\Debug\CSGO Lobby Finder.exe
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\bin\Debug\CSGO Lobby Finder.pdb
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO Lobby Finder.csprojResolveAssemblyReference.cache
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO_Lobby_Finder.Form1.resources
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO_Lobby_Finder.Properties.Resources.resources
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO Lobby Finder.csproj.GenerateResource.Cache
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO Lobby Finder.exe
+G:\Projects\CSGO Lobby Finder\CSGO Lobby Finder\obj\Debug\CSGO Lobby Finder.pdb
